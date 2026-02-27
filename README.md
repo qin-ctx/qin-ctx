@@ -74,7 +74,7 @@ Unifies management of context — memory, resources, and skills — that agents 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qin-ctx&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=qin-ctx&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
