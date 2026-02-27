@@ -12,7 +12,7 @@
 
 Infrastructure engineer at **ByteDance**, focused on building context management systems for AI agents.
 
-Core maintainer of **[MineContext](https://github.com/volcengine/MineContext)** and **[OpenViking](https://github.com/volcengine/OpenViking)** — open-source tools that help AI agents manage memory, resources, and skills.
+Co-creator of **[MineContext](https://github.com/volcengine/MineContext)** and **[OpenViking](https://github.com/volcengine/OpenViking)** — open-source tools that help AI agents manage memory, resources, and skills.
 
 ## Featured Projects
 
