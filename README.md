@@ -55,8 +55,8 @@ Unifies management of context — memory, resources, and skills — that agents 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=qin-ctx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qin-ctx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=qin-ctx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qin-ctx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
