@@ -65,9 +65,17 @@ Unifies management of context — memory, resources, and skills — that agents 
 
 </div>
 
-## Activity
+## 3D Contribution Calendar
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qin-ctx&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</picture>
+
+</div>
 
 ## Trophies
 
