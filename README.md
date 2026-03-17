@@ -43,28 +43,6 @@ Unifies management of context — memory, resources, and skills — that agents 
 </tr>
 </table>
 
-## Tech Stack
-
-<div align="center">
-
-[![Tech Stack](https://skillicons.dev/icons?i=python,go,rust,cpp,docker,kubernetes,linux,git,redis,postgres,mongodb,vim&perline=6)](https://skillicons.dev)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qin-ctx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qin-ctx&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
 ## 3D Contribution Calendar
 
 <div align="center">
